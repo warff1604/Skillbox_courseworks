@@ -1,2 +1,2 @@
 # Skillbox courseworks
-Курссовые работы в Skillbox
+Курсовые работы в Skillbox
